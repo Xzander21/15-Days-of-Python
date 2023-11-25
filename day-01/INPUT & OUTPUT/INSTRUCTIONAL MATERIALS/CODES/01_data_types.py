@@ -22,8 +22,8 @@ dream = 'My dream is to be the greatest cloud architect in the world and provide
 
 is_valid = True
 is_open = False
-is_true = 0 # 0 is considered False
-is_false = 1 # Non-zero value is considered True
+is_true = 0 # 0 is considered False.
+is_false = 1 # Non-zero value is considered True.
 
 
 # List ('list') - Represents an ordered, mutable sequence of elements.
