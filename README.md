@@ -17,5 +17,15 @@ Immerse yourself in the realm of virtual environments and unravel the significan
 Embark on this 15-day journey, and empower yourself with the expertise to thrive in AWS Cloud Computing with Python.
 
 
-## To Start
-1. Click on the green button 'Use this template'
+## Getting Started with PythonQuest
+1. Begin your PythonQuest by clicking the vibrant 'Use this template' button.
+2. On the "Create a new repository" page, ensure to:
+   - Opt for 'Don't include all the branches'
+   - Set yourself as the owner
+   - Make the repository PUBLIC
+3. Voila! Execute the 'Create repository' command.
+4. Commence your PythonQuest journey!
+
+### A Friendly Note
+If you belong to the Department of Cloud Computing, participating in this 15 Days of PythonQuest is not just recommended—it's essential. This active engagement is not only a valuable contribution to the department but also a pathway to receiving a Certificate, a medal of honor recognizing your eagerness to master the fundamentals of Python and REST APIs. Embark on this quest, and let the learning adventure begin!
+
