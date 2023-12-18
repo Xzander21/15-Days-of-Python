@@ -1,0 +1,13 @@
+name,creator,date created,usage
+Python,Guido van Rossum,1991,General-purpose
+JavaScript,Brendan Eich,1995,Web development
+Java,James Gosling,1995,Enterprise applications
+C++,Bjarne Stroustrup,1983,General-purpose
+C#,Anders Hejlsberg,2000,Windows applications
+Ruby,Yukihiro Matsumoto,1995,Web development
+Swift,Apple Inc.,2014,Mobile app development
+Go,Robert Griesemer,2009,Systems programming
+PHP,Rasmus Lerdorf,1995,Web development
+Rust,Graydon Hoare,2010,Systems programming
+TypeScript,Microsoft,2012,Web development
+Lua,Roberto Ierusalimschy,1993,Scripting
