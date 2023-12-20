@@ -8,14 +8,13 @@ Embark on your Python programming journey by delving into the core aspects of th
 ## Days 6-10: Mastering File Handling with Python
 Dive deep into Python's innate capabilities for efficient file management. Uncover the intricacies of handling various file types, including:
 1. Text files (txt)
-2. Comma-separated values (csv)
+2. Comma-separated values / Comma-spaced values(csv)
 3. JavaScript Object Notation (json)
 
 ## Days 11-15: Crafting RESTful APIs with FLASK
 Immerse yourself in the realm of virtual environments and unravel the significance of Application Programming Interfaces (APIs). Focus on REST (REpresentation State Transfer) as you delve into creating robust and scalable RESTful APIs using FLASK. Elevate your understanding of the pivotal role APIs play in modern software development.
 
 Embark on this 15-day journey, and empower yourself with the expertise to thrive in AWS Cloud Computing with Python.
-
 
 ## Getting Started with PythonQuest
 1. Begin your PythonQuest by clicking the vibrant 'Use this template' button.
