@@ -8,7 +8,7 @@ Embark on your Python programming journey by delving into the core aspects of th
 ## Days 6-10: Mastering File Handling with Python
 Dive deep into Python's innate capabilities for efficient file management. Uncover the intricacies of handling various file types, including:
 1. Text files (txt)
-2. Comma-separated values / Comma-spaced values(csv)
+2. Comma-separated values / Comma-spaced values (csv)
 3. JavaScript Object Notation (json)
 
 ## Days 11-15: Crafting RESTful APIs with FLASK
